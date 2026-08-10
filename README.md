@@ -32,6 +32,19 @@ Install the required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
+## Environment
+
+The code was developed and tested using the following environment:
+
+- Python 3.12.7
+- PyTorch 2.7.1+cu126
+- CUDA 12.6
+- NumPy 1.26.4
+- pandas 2.2.2
+- scikit-learn 1.5.1
+- Matplotlib 3.9.2
+- openpyxl 3.1.5
+- GPU: NVIDIA GeForce RTX 4060 Laptop GPU
 
 ## Usage
 
