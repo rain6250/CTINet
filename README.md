@@ -10,29 +10,10 @@ CTINet is a hybrid EEG-fNIRS decoding framework for cognitive-task classificatio
 
 This repository provides the core PyTorch implementation of CTINet and the subject-dependent training code used in the main experiments.
 
-## Datasets
+## Dataset
 
-This study uses two publicly available simultaneous EEG-fNIRS datasets.
-
-### Motor Imagery (MI) and Mental Arithmetic (MA)
-
-J. Shin et al.,  
-**"Open Access Dataset for EEG+NIRS Single-Trial Classification,"**  
-*IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 2017.
-
-Dataset:  
-https://doi.org/10.82901/nemar.nm000267
-
-### Word Generation (WG)
-
-J. Shin et al.,  
-**"Simultaneous Acquisition of EEG and NIRS During Cognitive Tasks for an Open Access Dataset,"**  
-*Scientific Data*, 2018.
-
-Dataset:  
-https://doi.org/10.14279/depositonce-5830.2
-
-Raw EEG and fNIRS data are not redistributed in this repository.
+- [Open access dataset for simultaneous EEG and NIRS brain-computer interface (BCI)](https://doi.org/10.82901/nemar.nm000267)
+- [Simultaneous acquisition of EEG and NIRS during cognitive tasks for an open access dataset](https://doi.org/10.14279/depositonce-5830.2)
 
 ## Data Preprocessing
 
@@ -86,6 +67,6 @@ If you use this code in your research, please cite:
 
 Citation information will be updated after publication.
 
-## License
+## Contact
 
-This project is released under the MIT License.
+If you have any questions, please contact us at [yanghaiqiang@qdu.edu.cn](mailto:yanghaiqiang@qdu.edu.cn).
